@@ -60,7 +60,7 @@ export default function Login() {
               <Shield className="w-12 h-12 text-white" />
             </div>
             <h1 className="text-3xl font-bold text-white mb-2">
-              AI Shield
+              AI SEDP
             </h1>
             <p className="text-blue-200 text-center text-sm">
               Social Engineering Detection Platform
